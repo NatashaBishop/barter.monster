@@ -6,5 +6,5 @@ sub-domain https://app.barter.monster/  - where the dashboards for admins and us
 The content part is developed on WordPress, with articles in place for the SEO and waiting list page with google form embeded.  
 
 At later stage: 
-Shift the application to the main domain
-Convert WordPress blog into application pages with ability to post articles by our users.
+1] shift the application to the main domain  
+2] convert WordPress blog into application pages with ability to post articles by our users.
